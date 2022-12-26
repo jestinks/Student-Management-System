@@ -8,5 +8,5 @@
 <h1 align="center"><strong>Screenshot</strong></h1>
 <p align="center"><img src="https://user-images.githubusercontent.com/117035020/209564888-36d24fbf-5d4b-442e-b346-1840f0354807.png"></p>
 
-* When the user enters Reg. No. in the check field and clicks the Submit button, total marks and his/her rank should be displayed
+* When the user enters Reg. No. in the check field and clicks the Submit button, total marks and his/her rank will be displayed
 * When the user enters Reg. No. , Name , Marks of three Subjects  in their corresponding field and clicks the Submit button, the entered details of the student is stored in the student database .
