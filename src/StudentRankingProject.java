@@ -1,3 +1,17 @@
+/* Create a student management system with the following options,
+          1. Create a database named Student.
+          2. Create a table named StudentDetails with the following attributes,
+              a) RegisterNumber – Primary Key
+              b) Name
+              c) Mark1
+              d) Mark2
+              e) Mark3
+          3. Create a page for entering the details of 10 students using Swing. The layout shown in README.MD
+          4. When the user enters Reg. No. in the check field and clicks the Submit button, total marks and his/her rank should be displayed.
+          
+@ Author: Jestin K S
+
+*/
 import javax.swing.*;
 import java.awt.event.*;
 import java.sql.*;
