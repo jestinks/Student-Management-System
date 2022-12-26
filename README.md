@@ -1,5 +1,8 @@
-																										# Student-Management-System
-![image](https://user-images.githubusercontent.com/117035020/209564192-c9e43652-a91d-4b49-ac82-2d37511d6b0c.png)
-Language used for coding : JAVA
-Simple Demonstration of Student Management System for 10 Students
-![image](https://user-images.githubusercontent.com/117035020/209563994-81d42e7c-b513-421a-bc09-e1a6b3567d11.png)
+<h1 align="center"><strong><em>Student Management System</strong></em></h1>
+<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/194/194931.png" alt="sms logo" height=225 width=225></p>
+
+* Language used : Java 
+* DBMS used : MySQL
+
+<h1 align="center"><strong>Screenshot</strong></h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/117035020/209564888-36d24fbf-5d4b-442e-b346-1840f0354807.png"></p>
